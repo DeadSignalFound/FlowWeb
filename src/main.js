@@ -13,8 +13,7 @@ document.querySelector('#app').innerHTML = `
 
       <h1>Flow</h1>
       <p>
-        iOS-inspired motion language with Dynamic Island style timing—crafted to feel ultra-smooth,
-        responsive, and alive.
+        fuck you
       </p>
 
       <div class="island" role="img" aria-label="Animated Dynamic Island inspired component">
